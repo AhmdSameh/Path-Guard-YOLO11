@@ -1,0 +1,9 @@
+cars
+cracked tiles
+motorcycles
+potholes
+roads
+sidewalk
+steps
+vans
+walls
